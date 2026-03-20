@@ -1,0 +1,17 @@
+;
+; BIND reverse data file for local loopback interface
+;
+$TTL    604800
+@   IN  SOA ns1.codearts.local. admin.codearts.local. (
+            2026031701  ; Serial
+            604800      ; Refresh
+            86400       ; Retry
+            2419200     ; Expire
+            604800 )    ; Negative Cache TTL
+
+@       IN  NS      ns1.codearts.local.
+
+100     IN  PTR     ns1.codearts.local.
+101     IN  PTR     web.codearts.local.
+102     IN  PTR     db.codearts.local.
+103     IN  PTR     mail.codearts.local.
