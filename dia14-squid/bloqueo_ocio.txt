@@ -1,0 +1,7 @@
+.youtube.com
+.twitch.tv
+.tiktok.com
+.instagram.com
+.facebook.com
+.twitter.com
+.netflix.com

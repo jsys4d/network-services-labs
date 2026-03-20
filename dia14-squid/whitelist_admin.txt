@@ -1,0 +1,6 @@
+.google.com
+.microsoft.com
+.office.com
+.github.com
+.linkedin.com
+.codearts.local

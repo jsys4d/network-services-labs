@@ -1,0 +1,4 @@
+.youtube.com
+.twitch.tv
+.vimeo.com
+.dailymotion.com
